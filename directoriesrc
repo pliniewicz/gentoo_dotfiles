@@ -1,0 +1,4 @@
+alias S="cd /home1/studia"
+alias cf="cd /home/patryk/.config"
+alias D="cd /home/patryk/Downloads"
+alias p="cd /home1/programming_projects"
